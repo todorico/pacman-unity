@@ -1,5 +1,5 @@
 # pacman-unity
-Pacman with map editor developed with Unity during my studies (Faculté des sciences de Montpellier - Licence 3).
+Pacman with map editor developed with Unity during my studies (Faculté des sciences de Montpellier - Licence 2).
 
 ### Game
 
